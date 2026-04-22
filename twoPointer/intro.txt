@@ -1,0 +1,8 @@
+When two pointer use?
+
+- Array or Link List ✅
+- Sort / Sorted Data ✅
+- Merge / Remove Duplicate Data ✅
+- Rearrange Data ✅
+- Detect Cycle ✅
+- Find Pair ✅

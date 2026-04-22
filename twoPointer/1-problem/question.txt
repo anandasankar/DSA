@@ -1,0 +1,26 @@
+Given a 1-indexed array of integers numbers 
+that is already sorted in non-decreasing order,
+find two numbers such that they add up to a specific target number.
+
+Input:
+array = [2,7,11,15], target = 9
+
+Output:
+[2, 7]
+
+
+-------------------------------------------
+Sudo Code
+-------------------------------------------
+
+
+  i               j
+[ 2,  7 , 11  ,  15]
+  0   1    2      3 
+
+
+if(i + j = target)
+return result
+
+else if (i + j > target) then we need small number
+else we need greater number
